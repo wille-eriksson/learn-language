@@ -1,0 +1,20 @@
+colar->strain,pour,pass,percolate
+agotador->exhausting,grueling,strenuous,hard,taxing,fatiguing,punishing,killing,gruesome,gruelling,exhauster
+despeñar->knock off
+aireado->airy
+inusitado->unused
+encajar->to fit in,fit,insert,dovetail,encase,enclose,put up with,get in
+desvaído->gaunt
+peluca->wig,periwig,peruke
+gatear->crawl,crawl on all fours
+peonza->top,peg-top
+nefasto->disastrous,unlucky,poisonous
+agobiar->overwhelm,burden,oppress,overburden,weigh down,grind down,load
+canoso->hoary,grizzly,grey-headed,grey-haired
+augurar->augur
+taciturno->taciturn,morose,sullen,glum,uncommunicative
+torvamente->balefully
+vejete->codger,gaffer
+agobiante->oppressive
+incurrir->incurring,fall into
+averiar->damage

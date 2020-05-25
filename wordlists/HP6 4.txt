@@ -1,0 +1,19 @@
+presuroso->hasty
+farol->lantern,bluff,lamp
+olfato->smell,nose,scent
+almacén->warehouse,store,storehouse,depot,shop,repository,shed,grocery,grocers,grocer's shop
+deslumbrante->dazzling,blinding,glaringly
+incubar->incubate,hatch,sicken for
+morsa->walrus,sea cow,sea horse
+creído->believed,hoped,gullible,inclined
+esbelto->slender,slim,svelte,jimp
+irradiar->radiate,irradiate,beam,eradiate
+refunfuñar->grumble,grouch
+garbo->grace,elegance,elegancy,elegant
+precipitar->precipitate,accelerate,spark,haste
+fugarse->escape,leak,abscond,break
+picardía->craftiness,roguery,naughtiness,rascality,smarts,archness
+escupitajo->spittle
+atontado->stunned,stupid,besotted,dopey,befuddled,dopy
+bufar->snort,spit,blow
+aludir->allude

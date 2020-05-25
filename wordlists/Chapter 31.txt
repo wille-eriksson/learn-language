@@ -1,0 +1,49 @@
+conciliar->reconcile,conciliate
+salero->salt shaker,salt,salt cellar
+volcar->overturn,tip over,turn over,knock over,overthrow,tip up,pull over,push over
+tarro->jar,pot,tin
+encarar->confront,aim,point
+fugaz->fleeting,transient,fugacious
+garrote->club,garrote,garrotte,bludgeon,garotte
+regocijante->hilarious
+hipo->hiccup,hiccough
+escaso->little,low,scarce,sparse,small,limited,poor,short,scant,meager,insufficient,tight,scanty,slight,thin,slim,skimpy,lower,slender,bare,sparing,pinched,mingy,scrimpy,meagre
+añicos->smithereens
+asombroso->amazing,astonishing,astounding,staggering,surprising,startling,breathtaking,appalling,stupendous
+tejón->badger,furbelow
+seta->mushroom
+hurón->ferret
+surcado->furrowed,lined
+estival->summer,summery,midsummer,aestival
+ingenuo->naive,ingenuous,simple-minded
+erguido->erect,straight,proud,upright
+desmoronamiento->decay
+esmerarse->strive,take great pains,sweat blood
+erizo->hedgehog
+púa->plectrum,tine,quill,tooth,scion,spine,prickle,jag
+faena->chore,labor,labour
+rematar->top off,auction,kill off,knock down
+verruga->wart,verruca
+miga->crumb
+soplar->blow,puff,fan,prompt,split,grass,tell,peach,inform
+chirrido->chirp,squeak,creak,scrape,scraping,scratch,chirrup,screak
+rasguear->strum,plunk
+conforme->according,agreeable,conformable,agreed,accordant,acquiescent,agreement
+esparcir->spread,scatter,sprinkle,strew,disseminate,sow,intersperse,divert,amuse,throw about,interspace
+amortiguar->cushion,absorb,muffle,soften,deaden,mute,silence,bedim,blanket
+destacar->highlight,stand out,spotlight,distinguish,detach,foreground,draft,draught
+trastornar->unsettle,turn,shake,derange,dislocate,disorder,turn around,turn about
+rugir->roar,bellow,bark
+enarbolar->fly,raise,hoist
+agarrar->grab,grasp,grip,catch,hold,seize,get,take,clutch,get hold of,grapple,snatch up,nail,catch hold of,lift,lay hold of,clench,take on
+desprender->unpin
+advertencia->warning,caution,caveat,admonition
+derrumbar->overthrow,overturn
+reacio->reluctant,unwilling,recalcitrant,balky,refractory,fractious,adamant
+retroceder->back,go back,move back,back up,turn back,fall back,regress,back away,push back,flinch,move backwards,stand back,start back,give ground,walk backward
+verja->gate,grating,grille,grill,bars
+funda->sheath,cover,holster
+espantoso->frightening,dreadful,frightful,appalling,hideous,scary,shocking,gruesome,terrifying,dread,scarey
+torpe->clumsy,awkward,bumbling,blundering,heavy,thick,rough,blockish,labored,logy,butterfingered,dullish,slow-witted,left-handed,laboured,duffer,slowpoke,butterfingers,slowcoach,fathead,left-hander
+melena->mane
+clavar->nail,drive,stick,nail down,sink,press in,spike,thrust,plunge,embed,jab,knock in

@@ -1,0 +1,49 @@
+teñir->dye,color,tinge,colour
+desplazar->displace
+tumbar->overthrow,topple,tumble,drop
+desenlace->outcome,denouement,end,ending
+júbilo->joy,glee,elation,rejoicing,jubilance
+helar->freeze,ice,chill,freeze up
+desprevenido->unprepared,unaware
+tejado->roof
+apear->take down,survey
+rebosante->overflowing,brimming,brimful,bustling
+resplandor->radiance,blaze,brilliance,resplendence,brilliancy,radiation,radiancy
+agradecido->grateful,thankful,appreciative,obliged,indebted,beholden
+desvencijado->rickety,ramshackle,rattletrap,falling apart
+apremiar->press,push
+vacilar->hesitate,waver,vacillate,flicker,dither,hold back,hang back,range,dicker
+apretujarse->squeeze,press
+someterse->undergo,submit
+cacheo->search,frisk,searching
+ensanchar->widen,broaden,expand,enlarge,extend,stretch,let out
+someter->submit,subject,bring under,bow,put through,impeach
+tenue->faint,tenuous,thin,weak,remote
+empotrado->built-in,set-in
+atrio->atrium,forecourt,parvis
+reja->grid,grille,grate,grating,grill,screen,share
+estrépito->loud crash,crash,clatter,din,noise,racket,row,noisiness
+traquetear->rattle,clatter,jolt,joggle,brattle
+picaporte->latch
+franja->stripe,fringe,bar
+retina->retina
+hormiga->ant,pismire,emmet
+azabache->jet,black amber
+destello->flash,sparkle,gleam,glint,spark,blink,beam
+nacarado->pearly,nacreous,nacrous
+sumergir->immerse,submerge,plunge,swamp
+emerger->emerge,surface,appear
+pegajoso->sticky,tacky,gooey,clammy,gummy,clinging,adhesive,gluey,gluey
+espeluznante->bloodcurdling,grisly,lurid,horrifying,nightmarish,hair-raising,hair-rising
+tarima->pallet,scaffold
+foso->pit,moat,trench,ditch,socket
+arco->arc,bow,arch,archway,longbow
+andrajoso->ragged,tattered,shabby,ratty
+velo->veil,shroud,mist,mantilla,film,velum,veiling
+rozar->touch,rub,graze,skim,chafe,grate
+azar->random,chance,luck
+fundir->melt,fuse,merge,melt down,found,fuze
+sigilo->stealth,secrecy,secret,secretiveness,stealthiness,furtiveness
+aguzar->sharpen,prick up,acuminate
+angustiado->distressed,anguished,anxious,harrowing
+trazo->stroke

@@ -1,0 +1,20 @@
+deslizar->slide,slip,creep,coast
+astuto->crafty,cunning,astute,clever,sly,wily,smart,foxy,canny,slick,sharp,tricky,artful,knowing,dodgy,pawky,cannie,worldly-wise,colic
+rencor->resentment,rancor,bad blood,nastiness,ill-feeling,rancour
+en fin->anyway,in the end
+subasta->auction,sale,bidding
+trasero->rear,bottom,backside,behind,tail,posterior,seat,back,rearward,hind,posterior,rearmost,rear-mounted
+cesta->basket
+paradero->whereabouts
+altivez->haughtiness
+agazapar->grab
+gozar->enjoy,joy
+abrocharse->fasten,button,wrestle
+cremallera->zipper,zip,rack,slide fastener,zip fastener
+sendero->path,trail,footpath
+colina->hill
+prevenir->to prevent,forestall,warn,caution,forewarn,previse
+destartalado->ramshackle,tacky
+cobertizo->shed,barn,shelter,boathouse,hut,outbuilding,penthouse
+recinto->enclosure,compound,precinct,inclosure
+no obstante->however,nevertheless,nonetheless,notwithstanding,in spite of

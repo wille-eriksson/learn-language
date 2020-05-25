@@ -1,0 +1,10 @@
+entrevista->interview,meeting
+pelota->ball
+sobre->on,about,upon,above,concerning,onto,in,on top of,atop,o'er,envelope,packet
+auidifonos->headphones,headset
+toalla->towel,horsetowel
+mesa->table,board,bureau,drawing table
+radio->radio,radius,wireless,radium
+bueno->good,nice,kind,right,fine,okay,OK,decent,fair,useful,enjoyable,goodly,cozy,whatever,plentiful,hearty,okey,okeydokey,cheering,plenteous,convenient,cosy,alright,goody
+vidreo->glass,pane,pane of glass
+hola->hello

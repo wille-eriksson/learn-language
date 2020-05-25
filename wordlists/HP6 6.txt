@@ -1,0 +1,18 @@
+magullar->bruise,maul,batter
+trastabillar->stumble,totter,bumble,stammer
+abochornado->ashamed
+acudir->keep,turn up,come up,look to,vote,come to the rescue
+perorata->peroration
+candado->padlock
+enclenque->sickly,weakly,infirm
+aferrar->grasp,furl,grapple
+atuendo->attire,guise,rig,turnout
+bullir->boil,seethe,move
+demora->delay
+enlosado->paved,flagstone pavement,flagstone paving,flagging
+palpar->feel,palpate,touch
+melaza->molasses,treacle
+estrafalario->bizarre,outlandish,eccentric,odd,fancy,wild,extravagant,slovenly,incongruous,tacky,sloppy,wack
+faro->lighthouse,beacon,headlight,light,lamp,lantern
+entrañas->bowels,entrails
+bambolear->dangle,falter

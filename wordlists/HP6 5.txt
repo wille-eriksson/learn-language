@@ -1,0 +1,20 @@
+albergar->harbor,shelter,refuge
+relucir->shine,glisten,gleam,sparkle
+engullir->gobble up,gobble,swallow,devour,gulp,guzzle,engorge,gorge,bolt,tuck in
+menudo->often,small,piddling,doited,minute
+constar->record,feature,be known,be on record,scan,know
+conmoción->shock,commotion,stir,fuss,ferment,earthquake,shake-up
+asomar->show,poke,peep,poke out,stick out,peep out,thrust out,put out
+rezongar->grumble,growl,gripe
+pavonearse->strut,swagger,show off,prance,parade,peacock,show out,delude,deceive,preen oneself
+soslayo->oblique
+reñir->quarrel,fight,argue,fall out
+majadería->nonsense
+atragantar->choke
+pasmado->stunned,aghast,thunderstruck
+presteza->promptness,promptitude,agility
+bocanada->puff,whiff,mouthful
+apretar->to tight,tighten,press,squeeze,clench,pinch,grip,tighten up,screw,press down,grasp,constrict,clutch,clasp,purse,bind,constrain,cramp
+muelle->dock,pier,quay,wharf,jetty,quayside,mole,springy,bouncy
+agacharse->bend,crouch,duck,stoop,squat,hunker down,bob down
+brotar->to sprout,sprout,spring,well,burst forth,leap up

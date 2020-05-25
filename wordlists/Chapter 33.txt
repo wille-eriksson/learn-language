@@ -1,0 +1,22 @@
+incertidumbre->uncertainty,doubt,incertitude,vagueness,dubiety
+frondoso->leafy
+apuro->trouble,hurry,plight,predicament,hardship,difficulty,need,jam,push,quandary,hole,deep water,privation
+enganchar->to hook,hook,attach,snag,hitch,hook up,harness,rope in,buttonhole,gaff
+zarza->bramble,briar,brier
+recelo->suspicion,mistrust,apprehension,misgiving,suspiciousness
+acechar->watch,lie in wait,waylay,ambush,spy,look
+maleza->undergrowth,brush,scrub,brushwood
+férreo->ferreous
+dotado->gifted,blest,blessed
+piafar->paw,paw the ground
+desgarrador->piercing,heartrending,pungent
+relincho->whinny,neigh
+enroscar->screw in,coil,screw on,twist,twine,wreathe
+encabritar->pull up,upset,rile
+aullar->howl,yowl,caterwaul
+inmundo->unclean,filthy,dungy
+lomo->loin,back,spine,backbone
+tupido->thick,bushy,shaggy,close-grained
+dosel->canopy,dossal
+acribillar->riddle,pepper,pelt
+manaza->paw

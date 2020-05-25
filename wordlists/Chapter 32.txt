@@ -1,0 +1,48 @@
+ceder->give,yield,assign,give in,cede,give up,transfer,give way,concede,grant,budge,hand over,relent,dispose of,waive,sign away,go,turn over,acquiesce,sign over,part with,make over,render up
+acongojado->upset
+oleada->wave,surge,billow
+inundar->flood,inundate,fill,swamp
+garrafal->monumental
+aterrar->terrify,appal,demolish,appall,astound,astonish
+aspereza->roughness,harshness,asperity,sharpness,sourness,surliness,scragginess
+espetar->spit,skewer,snap out,rap out,truss,transfix,pierce,run through
+palabrota->curse,oath,swearword,profanity,profane word
+despistar->mislead,sidetrack
+agarrotar->garrote,squeeze tight,garotte,garrotte
+colar->strain,pour,pass,percolate
+navaja->razor,penknife,pocket knife,jackknife,clasp-knife
+apiñar->crowd,squeeze,jam,pack in
+reluciente->shimmering,shimmery,aglimmer
+melena->mane
+hueco->hole,gap,hollow,cavity,void,hollow,empty
+asestar->deal,land,aim,throw,thrust,fire,plant,drive,lunge,level
+busto->bust
+rendija->slit,aperture,loophole,cranny,peephole
+estridente->strident,shrill,raucous,loud,screaming,brassy,jangling,unpleasant-sounding
+ristre->rest
+pellizco->pinch,nip
+remolino->swirl,whirlpool,eddy,whirl,maelstrom
+ceniza->ash,cinder,calx
+furtivo->furtive,sneaky,sneak,sly,sneaking,hole-and-corner
+regocijo->joy,exhilaration,amusement,gladness,merriment,gaiety
+ancha->wide,broad,deep,loose,extensive,capacious,square-shouldered
+degollar->behead
+hurgar->rummage,poke,poke around,poke about,rake
+arrebatar->snatch,take,grab,snatch away,carry away,enrapture,whip away
+agitar->shake,agitate,wave,flutter,shake up,move,rattle,excite,ruffle,wag,trouble,whirl,flourish,flurry
+tambalear->stagger,reel,drum
+zarandear->shake,jostle,buffet
+cuero->leather,hide,skin,cowhide
+amordazar->muzzle,gag
+adulador->flatterer,bootlicker,flunkey,fawning,adulatory,flunkey
+macizo->solid,massive,chunky,massif,mass,clump,bed,flowerbed,chunk,garden bed,quickly
+procurar->to procure,attempt
+insondable->fathomless,deep,impenetrable,abysmal,bottommost
+madurar->to mature,mature,ripen,maturate,mellow,season
+taladrar->drill,pierce,punch,bore
+inmutarse->flinch,change countenance
+brebaje->potion,slipslop
+avidez->avidity,greed,greediness,rapacity
+pisotear->trample,tread,tread down,poach
+farfullar->babble,jabber,mutter,gibber,splutter,patter,botch
+enderezar->straighten,right,straighten out,unbend,bend straight,bump

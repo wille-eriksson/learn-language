@@ -1,0 +1,20 @@
+alumbrar->light,light up
+gélido->icy,gelid
+trepar->climb,climb up,clamber,shin up
+escocer->burn,smart,hurt,annoy
+ímpetu->momentum,impetus,rush,onrush
+aportar->contribute
+pellejo->skin,hide,pelt,peel
+frambuesa->raspberry
+dictaminar->rule
+rojizo->reddish,ruddy,russet,gingery,florid
+cazo->saucepan,dipper,ladle,billy-can
+fogón->stove,galley
+borbotear->bubble
+cuenco->bowl,basin
+repleto->full,replete
+ampolla->blister,ampoule,ampule,bleb,phial
+esófago->esophagus,gullet,oesophagus
+desatar->tie off,untie,loose,loosen,undo,unbind
+bujía->spark plug,plug,sparking plug,taper
+colada->wash,laundry,washing

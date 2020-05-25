@@ -1,0 +1,7 @@
+adherir->adhere,stick
+hallazgo->finding,find
+arremetir->lash out,attack,lunge,lay on,walk in,beat up on
+víspera->eve
+pésame->condolence
+acaecer->happen
+acervo->acquis

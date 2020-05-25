@@ -1,0 +1,3 @@
+añadir->add,append,add on,add in,tack on,affix,subjoin,annex,put on,postfix,join on,compliment,complement,throw in,adjoin,lend,put together,incorporate
+e->and
+para->for,to,of,by,at,towards,as,for the purpose of,as for,in order to,so as to

@@ -1,0 +1,22 @@
+seto->fence,paling
+burdo->coarse
+tejo->yew,quoit,hopscotch,yew-tree
+engreído->conceited,vain,snotty-nosed,stuck-up,uppity,bumptious,snotty-faced,bigheaded,bighead
+resoplido->i snort,puff,pant
+suntuosidad->richness,sumptuousity
+manija->handle,handgrip
+arrinconados->cornered,corner,lay aside,shelve
+repisa->shelf,ledge,bracket
+pulido->polished,polishing
+cabecera->headboard,head,bedside,bedhead
+vello->hair,down,fuzz,bloom
+orificio->orifice
+refulgente->effulgent,refulgent,resplendent
+nacarado->pearly,nacreous,nacrous
+esbozar->sketch out,rough out
+rechoncho->chubby,plump,stocky,squat,tubby,pudgy,thickset,podgy
+vagar->to wander,wander,roam
+encarnado->incarnate,incarnadine,ingrowing,ingrown,red,blush
+desgarrador->piercing,heartrending,pungent
+alarido->howl,yell,whoop,yowl
+mudar->move,change,shed,slough,molt,moult,slough off,transfer,break,mutate,throw,convert,break up
