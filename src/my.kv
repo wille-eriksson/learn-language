@@ -1,0 +1,75 @@
+WindowManager:
+    MainWindow:
+    SecondWindow:
+    AddWindow:
+    DeleteWindow:
+    QuizWindow:
+
+<MainWindow>:
+    name: "main"
+
+    Button:
+        text: "Spanish list"
+        on_release:
+            app.root.current = "second"
+            root.manager.transition.direction = "left"
+
+<SecondWindow>:
+    name: "second"
+
+    FloatLayout:
+
+        SmoothButton:
+            text: "Add word"
+            pos_hint: {"x": 0.05, "top":0.975}
+
+            on_release: app.root.current = "add"
+
+
+        SmoothButton:
+            text: "Delete word"
+            pos_hint: {"x": 0.05,"top": 0.725}
+
+            on_release: app.root.current = "delete"
+
+
+        SmoothButton:
+            text: "Quiz"
+            pos_hint: {"x": 0.05,"top": 0.475}
+
+            on_release: app.root.current = "quiz"
+
+
+        SmoothButton:
+            text: "Back"
+            pos_hint: {"x": 0.05, "top": 0.225}
+
+            on_release:
+                app.root.current = "main"
+                root.manager.transition.direction = "right"
+
+
+
+<AddWindow>:
+    name: "add"
+
+<DeleteWindow>:
+    name: "delete"
+
+<QuizWindow>:
+    name: "quiz"
+
+<SmoothButton@Button>:
+    background_color: (0,0,0,0)
+    background_normal: ""
+    back_color: (1,0.39,0.156,1)
+    border_radius: [40]
+    size_hint: 0.9, 0.2
+    font_size: 0.3 * self.height
+    canvas.before:
+        Color:
+            rgba: self.back_color
+        RoundedRectangle:
+            size: self.size
+            pos: self.pos
+            radius: self.border_radius
